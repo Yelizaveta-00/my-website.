@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Економічна безпека Індії — Резюме</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <meta name="description" content="Резюме — Єлізавета Отиченко. Студентка, освіта, досвід, навички." />
+</head>
+<body>
+  <div class="container">
+    <header class="header" role="banner">
+      <div class="brand" aria-hidden="true">Економічна безпека Індії</div>
+      <nav class="nav" role="navigation" aria-label="Головна навігація">
+        <a class="button" href="index.html">Резюме</a>
+        <a class="button" href="economy.html">Економічна безпека</a>
+        <a class="button" href="threats.html">Загрози та протидія</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero card" aria-labelledby="resume-title">
+        <h1 id="resume-title">Резюме</h1>
+        <p class="small">Коротке професійне резюме у форматі для університетського проєкту.</p>
+      </section>
+
+      <section class="card" id="personal">
+        <h2>Особисті дані</h2>
+        <p><strong>ПІБ:</strong> Єлізавета Отиченко</p>
+        <p><strong>Національність:</strong> українка</p>
+        <p><strong>Дата народження:</strong> 26 січня 2008 р.</p>
+        <p><strong>Місце народження:</strong> Зеленьки, Україна</p>
+        <p><strong>Телефон:</strong> (+380) 667360684</p>
+        <p><strong>Email:</strong> lizaotychenko2@gmail.com</p>
+      </section>
+
+      <section class="card" id="profile">
+        <h2>Профіль</h2>
+        <p>Я — відповідальна та відкрита до навчання студентка першого курсу спеціальності «Міжнародні відносини». Маю практичний досвід роботи в сімейному роздрібному бізнесі, базові навички організації продажів і комунікації з клієнтами. Шукаю можливості для розвитку в галузі міжнародних відносин та економічної безпеки.</p>
+      </section>
+
+      <section class="card" id="education">
+        <h2>Освіта</h2>
+        <ul>
+          <li>
+            <strong>Бакалавр (навчання)</strong> — Державний університет торгівлі та економіки (SUTE), Київ. <span class="small">Початок: 1 вересня 2025 — далі (навчання триває)</span>
+          </li>
+          <li>
+            <strong>Свідоцтво про повну загальну середню освіту</strong> — Міронівський ліцей. <span class="small">1 вересня 2023 – 26 липня 2025</span>
+          </li>
+          <li>
+            <strong>Свідоцтво про базову загальну освіту</strong> — Зеленьківська гімназія. <span class="small">1 вересня 2014 – 16 липня 2023</span>
+          </li>
+        </ul>
+      </section>
+
+      <section class="card" id="experience">
+        <h2>Досвід роботи</h2>
+        <div>
+          <h3>Retail Assistant — сімейний невеликий бізнес (Zelenky, Ukraine)</h3>
+          <p class="small">1 липня 2016 – 1 вересня 2017</p>
+          <ul>
+            <li>Допомагала у продажі ягід та інших товарів на сімейній торговій точці.</li>
+            <li>Підтримувала оформлення продукції та упаковку, забезпечувала дружнє обслуговування покупців.</li>
+            <li>Готувала товар до продажу, підтримувала порядок на робочому місці.</li>
+            <li>Отримала навички клієнтської комунікації та базового обслуговування продажів.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="card" id="skills">
+        <h2>Навички</h2>
+        <ul>
+          <li>Класична гітара (базовий рівень)</li>
+          <li>Малювання та живопис</li>
+          <li>Закінчено курс водіння категорії C (практичні навички управління)</li>
+          <li>Комунікація з клієнтами, базова організація точок продажу</li>
+        </ul>
+      </section>
+
+      <section class="card" id="languages">
+        <h2>Мови</h2>
+        <p><strong>Українська:</strong> рідна</p>
+        <p><strong>Англійська:</strong> базовий рівень (за потреби — вказати рівень точніше)</p>
+      </section>
+
+      <section class="card" id="volunteering">
+        <h2>Волонтерство / Соціальний досвід</h2>
+        <p>Неформальна допомога в родині: щоденна підтримка молодших членів сім'ї, вирішення побутових конфліктів, розвиток навичок терпіння, емпатії та відповідальності.</p>
+      </section>
+
+      <section class="card" id="qualities">
+        <h2>Особисті якості</h2>
+        <ul>
+          <li>Надійність і відповідальність</li>
+          <li>Відкритість до навчання та саморозвитку</li>
+          <li>Чесність та самоусвідомлення</li>
+          <li>Креативність у пошуку підходів до завдань</li>
+        </ul>
+      </section>
+
+      <section class="card" id="hobbies">
+        <h2>Хобі та інтереси</h2>
+        <p>Приготування їжі, прогулянки на свіжому повітрі, активність (розтяжка, рух), перегляд змістовних фільмів та рефлексія, читання для саморозвитку, класична музика.</p>
+      </section>
+
+      <section class="card" id="notes">
+        <h2>Примітки</h2>
+        <p class="small">Це резюме підготовлене для використання на університетському проєкті. Якщо хочеш, я можу прибрати або замаскувати контактні дані перед публікацією в інтернеті — скажи, і я одразу внесу зміни.</p>
+      </section>
+    </main>
+
+    <footer class="footer" role="contentinfo">
+      © <span id="year"></span> — Економічна безпека Індії
+    </footer>
+  </div>
+
+  <script>
+    // Легка підстановка року для футеру
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
